@@ -1,2 +1,4 @@
 # efeito-parallax
- Usando o efeito Parallax, o qual é muito utilizado nos sites atuais
+ Using the Parallax effect, which is widely used on today's websites
+ <br>
+ 
